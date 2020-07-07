@@ -40,11 +40,3 @@ def mulPeasant(a: int, b: int) -> int:
             None
 
     print(sum(Add))
-
-    print(BList)
-    print(Total)
-
-
-
-
-mulPeasant(25, 25)
